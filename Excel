@@ -1,0 +1,4 @@
+# Excel Functions Commonly used
+##### Compare two columns to find matches(ie; we have columns A and B) Excel 2016
+Highlight first column > Home > conditional Formatting > New Rule > "Use a forumla to determine which cells to format" > =countif($B:$B, $A1)>
+Format > Fill > choose color and OK
